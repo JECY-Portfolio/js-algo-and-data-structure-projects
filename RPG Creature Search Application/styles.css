@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#types {
+  margin-top: 10px;
+  font-style: italic;
+}
+
+.creature-info {
+  margin-top: 20px;
+}
